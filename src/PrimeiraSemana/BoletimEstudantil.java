@@ -1,4 +1,4 @@
-package teste;
+package PrimeiraSemana;
 import java.util.Scanner;
 
 
